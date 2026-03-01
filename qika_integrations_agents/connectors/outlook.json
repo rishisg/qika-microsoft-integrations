@@ -1,0 +1,9 @@
+{
+    "agent_slug": "outlook",
+    "domains": {
+        "communication": [
+            "communication.email",
+            "communication.outlook"
+        ]
+    }
+}

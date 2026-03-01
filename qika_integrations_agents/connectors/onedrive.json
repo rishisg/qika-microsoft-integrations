@@ -1,0 +1,10 @@
+{
+    "agent_slug": "onedrive",
+    "domains": {
+        "storage": [
+            "storage.files",
+            "storage.folders",
+            "storage.permissions"
+        ]
+    }
+}
